@@ -1,8 +1,8 @@
 # Curso GRÁTIS de GNU/Linux Ubuntu Server 22.04.x LTS (Jammy Jellyfish) Essentials
 
 ## 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
-## 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
-## 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
+## 💰 Chave PIX do projeto: rowneron@gmail.com
+## 💰 Link de doação do PagSeguro: https://pag.ae/LabtecPay 
 ## 💰 Link de doação do Paypal: https://www.paypal.com/donate/?hosted_button_id=EALLB7DQ3U6H2
 
 Robson Vaamonde<br>
